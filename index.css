@@ -1,0 +1,119 @@
+#navbarText{
+    margin-left: 350px;
+}
+
+.nav-item{
+    font-weight: 700;
+    font-size: 18px;
+    padding-right: 30px;
+}
+.nav-item a{
+    color: black;
+}
+.nav-item a:hover{
+    color:rgb(245, 238, 43);
+}
+
+.navbar-brand{
+    padding: 5px 0px 5px 20px;
+
+}
+.brand1 , .brand2{
+font-weight: 800;
+font-size: 30px;
+color:black;
+}
+.btn{
+    padding: 5px 20px 5px 20px;
+    background-color:black;
+    color:#ffff;
+}
+
+.hero-banner p{
+position:relative;
+top: 450px;
+background-color: #F4B223;
+text-align: center;
+padding: 20px;
+font-size: 20px;
+font-weight: 600;
+}
+.form{
+    background-color: #F4B223;
+    align-items: center;
+    justify-content: center;
+    width: 900px;
+    margin-left: 300px;padding: 50px;
+
+}
+.meet-siri-banner{
+    text-align: left;
+    padding: 100px 500px 0px 100px;
+}
+.meet-siri-banner p{
+    font-family: "calibri";
+    Font-size: 26px;
+    Font-weight: 400;
+    Line-height: 40.8px;
+    color:black;
+}
+.meet-siri-banner h2{
+    font-family: "calibri";
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-color: #F4B223;
+    Font-size: 46px;
+    Font-weight: 700;
+    Line-height: 59.8px;
+    color: black;
+}
+.banner3{
+    display: flex;
+}
+.div-left{
+    background-color: #F4B223;
+    padding: 100px 100px 0px 100px;
+
+}
+.div-left h2{
+    color:#ffff;
+}
+.div-left p{
+    Font-size: 20px;
+    Font-weight: 500;
+    Line-height: 59.8px;
+}
+.footer{
+    display: flex;
+    padding: 30px;
+}
+.social-media{
+    margin-left: 600px;
+}
+.fa {
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    width: 45px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10%;
+    margin: 10px;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }  
